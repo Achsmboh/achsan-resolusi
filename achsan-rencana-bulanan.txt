@@ -3,6 +3,7 @@ RENCANA BULANAN
   * Belajar Via Youtube
   * Membaca Artikel
    ^Yang gratis
+   ^Atau yang trial
 - Belajar Git-Hub
 - Belajar Git
    ^Via WPU
