@@ -1,8 +1,12 @@
-RENCANA BULANA
+RENCANA BULANAN
 - Belajar HTML, CSS, Javascript
   * Belajar Via Youtube
   * Membaca Artikel
+   ^Yang gratis
+   ^Atau yang trial
 - Belajar Git-Hub
 - Belajar Git
+   ^Via WPU
 - Belajar React Js
 - Belajar Next Js
+- Belajar Tailwind 
