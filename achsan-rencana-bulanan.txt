@@ -2,7 +2,9 @@ RENCANA BULANA
 - Belajar HTML, CSS, Javascript
   * Belajar Via Youtube
   * Membaca Artikel
-- Belajar Git-Hub
+    ^Yang berbayar
+    ^Yang premium
 - Belajar Git
+   ^Via WPU
 - Belajar React Js
 - Belajar Next Js
