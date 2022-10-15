@@ -3,5 +3,6 @@ RENCANA BULANA
   * Belajar Via Youtube
   * Membaca Artikel
 - Belajar Git-Hub
+- Belajar Git
 - Belajar React Js
 - Belajar Next Js
