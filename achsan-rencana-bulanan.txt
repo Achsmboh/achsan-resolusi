@@ -10,3 +10,4 @@ RENCANA BULANAN
 - Belajar React Js
 - Belajar Next Js
 - Belajar Tailwind 
+- Sip
